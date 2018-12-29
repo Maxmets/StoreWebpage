@@ -1,0 +1,15 @@
+
+A fake clothing shop store, I created to recap and test out the skills I learned during this years first semester. 
+
+The website has the whole male section currently done,  the landing page, and the contact page. 
+
+In the future there are still multiple things that I want to imporve in this project such as: 
+
+1) Finishing other sections of the store (mostly visuals there). 
+2) Adding a true shopping cart system that recognizes the item that was added. (Further research is required)
+3) Add a "Thank you, for contacting us" page. (possible could be done with PHP, as a HTML form submittion)
+4)Fix all the small bugs including, proper sizing of the carousel images, so that the carousel does not change its size every time
+  a picture swaps. 
+  
+Web development has been a very fun and unique learning experience. I will for sure continue exploring it in the future with more unique
+ideas and projects. To strengthen my understanding and skills in creating web pages/applications. 
